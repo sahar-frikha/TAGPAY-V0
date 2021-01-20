@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sahar-frikha/TAGPAY-V0.git/static/css/main.269d826d.chunk.css",
-    "main.js": "/sahar-frikha/TAGPAY-V0.git/static/js/main.95ce532a.chunk.js",
-    "main.js.map": "/sahar-frikha/TAGPAY-V0.git/static/js/main.95ce532a.chunk.js.map",
-    "runtime-main.js": "/sahar-frikha/TAGPAY-V0.git/static/js/runtime-main.7beac4b1.js",
-    "runtime-main.js.map": "/sahar-frikha/TAGPAY-V0.git/static/js/runtime-main.7beac4b1.js.map",
-    "static/css/2.64599f00.chunk.css": "/sahar-frikha/TAGPAY-V0.git/static/css/2.64599f00.chunk.css",
-    "static/js/2.dc4e7768.chunk.js": "/sahar-frikha/TAGPAY-V0.git/static/js/2.dc4e7768.chunk.js",
-    "static/js/2.dc4e7768.chunk.js.map": "/sahar-frikha/TAGPAY-V0.git/static/js/2.dc4e7768.chunk.js.map",
-    "index.html": "/sahar-frikha/TAGPAY-V0.git/index.html",
-    "static/css/2.64599f00.chunk.css.map": "/sahar-frikha/TAGPAY-V0.git/static/css/2.64599f00.chunk.css.map",
-    "static/css/main.269d826d.chunk.css.map": "/sahar-frikha/TAGPAY-V0.git/static/css/main.269d826d.chunk.css.map",
-    "static/js/2.dc4e7768.chunk.js.LICENSE.txt": "/sahar-frikha/TAGPAY-V0.git/static/js/2.dc4e7768.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/sahar-frikha/TAGPAY-V0.git/static/media/arrow_right.0897f985.svg",
-    "static/media/all.min.css": "/sahar-frikha/TAGPAY-V0.git/static/media/fa-solid-900.f4f93856.woff"
+    "main.css": "/TAGPAY-V0/static/css/main.269d826d.chunk.css",
+    "main.js": "/TAGPAY-V0/static/js/main.defceb9f.chunk.js",
+    "main.js.map": "/TAGPAY-V0/static/js/main.defceb9f.chunk.js.map",
+    "runtime-main.js": "/TAGPAY-V0/static/js/runtime-main.d124f181.js",
+    "runtime-main.js.map": "/TAGPAY-V0/static/js/runtime-main.d124f181.js.map",
+    "static/css/2.d5e9693a.chunk.css": "/TAGPAY-V0/static/css/2.d5e9693a.chunk.css",
+    "static/js/2.dc4e7768.chunk.js": "/TAGPAY-V0/static/js/2.dc4e7768.chunk.js",
+    "static/js/2.dc4e7768.chunk.js.map": "/TAGPAY-V0/static/js/2.dc4e7768.chunk.js.map",
+    "index.html": "/TAGPAY-V0/index.html",
+    "static/css/2.d5e9693a.chunk.css.map": "/TAGPAY-V0/static/css/2.d5e9693a.chunk.css.map",
+    "static/css/main.269d826d.chunk.css.map": "/TAGPAY-V0/static/css/main.269d826d.chunk.css.map",
+    "static/js/2.dc4e7768.chunk.js.LICENSE.txt": "/TAGPAY-V0/static/js/2.dc4e7768.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/TAGPAY-V0/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/TAGPAY-V0/static/media/fa-solid-900.f4f93856.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7beac4b1.js",
-    "static/css/2.64599f00.chunk.css",
+    "static/js/runtime-main.d124f181.js",
+    "static/css/2.d5e9693a.chunk.css",
     "static/js/2.dc4e7768.chunk.js",
     "static/css/main.269d826d.chunk.css",
-    "static/js/main.95ce532a.chunk.js"
+    "static/js/main.defceb9f.chunk.js"
   ]
 }
